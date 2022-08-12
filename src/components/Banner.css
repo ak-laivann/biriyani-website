@@ -1,0 +1,67 @@
+
+.card {
+    border: 1px solid rgba(255,255,255,0.18);
+    width: 650px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+h3{
+    color: black;
+}
+
+.wp{
+    position: absolute;
+    top: 500px;
+    right: 75px;
+}
+
+span{
+    font-weight: 300;
+    font-style: oblique;
+    font-size: x-large;
+}
+.wp-icon{
+    height: 20px;
+    width: 30px;
+}
+.icon{
+    position: absolute;
+    top: 500px;
+    left: 75px;
+}
+
+.location{
+    height: 20px;
+    width: 30px;
+    
+}
+li{
+    font-weight: 500;
+    font-style: oblique;
+}
+h3{
+    font-style: oblique;
+}
+.list{
+    position: absolute;
+    top: 90px;
+    left: 370px;
+    color: black;
+    backdrop-filter: blur(2px);
+    background: linear-gradient(135deg, rgba(225,225,225,0.1),rgba( 255,255,255,0));
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+    border: 1px solid red;
+    border-radius: 32px;
+}
+body {
+    background-color: rgb(255,200,0);
+}
+img{
+    width: 300px;
+    height: 500px;
+}
